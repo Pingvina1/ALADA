@@ -1,0 +1,56 @@
+body{
+    background-color: #000;
+}
+
+.date{
+    width: 56px;
+    height: 56px;
+    background-color: rgb(80, 9, 245);
+    padding: 7px 10px;
+    font-size: 37px;
+    color: #fff;
+}
+.img-block{
+    vertical-align: top;
+    margin-right: 39px;
+}
+.text-block{
+    vertical-align: top;
+    display: inline-block;
+    width: 529px;
+}
+.text1{
+    margin-bottom: 21px;
+    color: #fff;
+}
+.text2{
+    color: #fff;
+}
+.h3{
+    margin-top: 13px;
+    margin-bottom: 13px;
+    color: #fff;
+}
+.span1{
+    color: #fff;
+}
+
+.section-contact{
+    background-color: rgb(0, 0, 0);
+}
+.container{
+    width: 1000px;
+    margin: 0 auto;
+}
+.left-block{
+    margin-top: 15px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 15px;
+    color: #fff;
+}
+.right-block{
+    margin-top: 15px;
+    display: inline-block;
+    vertical-align: top;
+}
